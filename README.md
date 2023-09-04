@@ -21,7 +21,7 @@ Siga as etapas abaixo para executar o projeto localmente em sua máquina:
 
 Clone este repositório para o seu computador:
 ```bash
-git clone https://github.com/gabriel-rabel/test-devjob-client.git
+git clone https://github.com/gabriel-rabel/template-react.git
 ```
 
 Navegue até o diretório do projeto:
